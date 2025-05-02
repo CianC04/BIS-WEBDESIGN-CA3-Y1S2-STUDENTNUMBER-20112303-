@@ -29,8 +29,8 @@ What I changed: I increased the size of the navigation to fit the full header. I
 
 Why I Changed It: I increased the size of the navigation bar to fit the full length of the header because I wanted to ensure the navigation items are vertically centered and fully aligned with the logo. It made the layout mor balanced and removed the unnecessary blank space thus improving the aesthetic of the header. 
 
- I added the dropdown for the services page to comply with the briefs “JavaScript elements.” 
-
+ I added the dropdown for the services page for the briefs “JavaScript elements.” 
+ 
 Footer 
 
 What I Changed: I added a footer section to each page of the website, even though it was not included in the original wireframes. 
